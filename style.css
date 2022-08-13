@@ -1,0 +1,39 @@
+b1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Box1{
+    width: 30%;
+    margin: auto;
+    background-color: rgb(200, 202, 204);
+}
+.Box2{
+    width: 30%;
+    margin: auto;
+    background-color: rgb(222, 230, 226);
+}
+.Box3{
+    width: 30%;
+    margin: auto;
+    background-color: rgb(187, 190, 184);
+}
+h4{
+    margin-left: 35%;
+}
+p{
+padding-left: 10%;
+padding-right: 10%;
+}
+h3{
+    padding-left: 10%;
+    padding-right: 10%;
+    }
